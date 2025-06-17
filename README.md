@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | AI Enthusiast | Embedded Systems Innovator</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adithyasakthimani" target="_blank">
+  <a href="[https://www.linkedin.com/in/adithyasakthimani](https://www.linkedin.com/in/adithya-sakthimani-0459a7281/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adithyasakthimani@gmail.com">
