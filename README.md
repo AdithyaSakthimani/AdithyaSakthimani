@@ -54,12 +54,9 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,html,css,linux,git,vscode,arduino,tensorflow" />
-  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Verilog_logo.svg" height="40" title="Verilog" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" title="Streamlit" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,html,css,linux,git,vscode,arduino,aws" />
 </p>
+
 
 ---
 
