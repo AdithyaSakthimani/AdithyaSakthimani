@@ -54,7 +54,7 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,html,css,linux,git,verilog,streamlit,vscode,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,html,css,linux,git,vscode,arduino,raspberrypi" />
 </p>
 
 ---
